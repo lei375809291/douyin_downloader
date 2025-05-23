@@ -9,6 +9,9 @@
 
 4.批量取关的博主数量如果过多，可能会被官方弹出验证码。请自行手动解决验证码问题。
 
+v1.0.27 Release版本下载
+https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
+
 ![下载无水印视频](使用教程/1.下载无水印视频.png "下载无水印视频")
 
 
