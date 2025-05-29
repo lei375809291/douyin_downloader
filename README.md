@@ -1,34 +1,50 @@
 # douyin_downloader
-[2025-05-22] **抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。**
+
+抖音福袋扭蛋机 v1.1.15
+
+
+[2025-05-30] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+
+
+1.打开douyin_downloader软件目录，运行douyin_downloader.exe即可。
+
+
+2.新增直播间自动挂机抢福袋功能。也可以像原来一样手动抢福袋。为避免投诉和扯皮，软件暂不支持非免费的福袋抢夺（比如订阅主播会员和加入粉丝团等设置前提条件的直播间福袋）。
+
+
+3.直播间抢福袋、HD高清录制、批量取关的功能，需要用户登录抖音账号。如果需要长时间挂机抢福袋，建议多关注一些直播间经常放福袋的博主，软件只会监控已关注的主播直播间福袋。
+
+
+4.直播间录制的MP4视频，有时候会出现进度条异常或黑屏的情况，可能是由于网络波动导致的视频文件不完整。使用MP4视频修复软件修复一下即可。
+
+
+5.批量取关的博主数量如果过多，可能会被官方弹出验证码。请自行手动解决验证码问题。
+
+
+6.如果福袋中奖率过高，账号可能会被官方风控，一段时间内不会再中福袋。等一段时间再试试即可。
 
 
 
-1.打开douyin_downloader软件目录，运行douyin_loader.exe即可。
 
-2.直播间HD高清录制、批量取关的功能，需要用户登录抖音账号。
-
-3.直播间录制的MP4视频，有时候会出现进度条异常或黑屏的情况，可能是由于网络波动导致的视频文件不完整。使用视频修复软件修复一下即可。
-
-4.批量取关的博主数量如果过多，可能会被官方弹出验证码。请自行手动解决验证码问题。
+v1.1.15 Release版本下载
 
 
+[https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3](https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3)
 
 
-v1.0.27 Release版本下载
-
-https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
-
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader.zip
+[https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader.zip](https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v1.1.15.zip)
 
 
 
-
-![下载无水印视频](使用教程/1.下载无水印视频.png "下载无水印视频")
-
-
-![录制直播间视频](使用教程/2.录制直播间视频.png "录制直播间视频")
+![下载无水印视频](使用教程/1、直播间挂机抢福袋.png "直播间挂机抢福袋")
 
 
-![批量取消关注](使用教程/3.批量取消关注.png "批量取消关注")
+![下载无水印视频](使用教程/2、下载无水印视频.png "下载无水印视频")
+
+
+![录制直播间视频](使用教程/3、录制直播间内容.png "录制直播间内容")
+
+
+![批量取消关注](使用教程/4、批量取消关注.png "批量取消关注")
 
 
