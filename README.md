@@ -32,7 +32,7 @@ v1.1.15 Release版本下载
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
 
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v1.1.15.zip
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader.zip
 
 
 
