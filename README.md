@@ -26,7 +26,7 @@
 
 
 
-v1.1.20 Release版本下载
+v1.1.30 Release版本下载
 
 
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
