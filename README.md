@@ -1,10 +1,12 @@
 # douyin_downloader
 
-抖音福袋扭蛋机 v1.1.30
+抖音福袋扭蛋机 v1.1.31
 
 
 **[2025-06-07] 抖音福袋扭蛋机，抖音抢福袋工具，业余时间用VC++写的，还有一些小功能，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。**
 
+
+修改了大部分反馈的bug
 
 
 1.打开douyin_downloader软件目录，运行douyin_downloader.exe即可。
@@ -27,13 +29,13 @@
 
 
 
-v1.1.30 Release版本下载
+v1.1.31 Release版本下载
 
 
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
 
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v1.1.30.zip
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v1.1.31.zip
 
 
 
