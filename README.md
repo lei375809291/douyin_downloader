@@ -9,10 +9,13 @@
 
 
 注意：如果遇到打不开软件或解压出现问题的情况，可能需要在使用本软件时临时关闭杀毒软件或Windows Defender。
+
 关闭方式如下：
+
 https://www.cnblogs.com/emanlee/p/17406620.html
 
 如果还不能正常运行，可能是运行环境损坏或不全导致的，下载运行时环境，解压并覆盖到软件目录即可：
+
 http://www.app-bos.com/iKhph321j8ba
 
 
@@ -51,11 +54,6 @@ v2.1.0
 7.直播间录制的MP4视频，有时候会出现进度条异常或黑屏的情况，可能是由于网络波动导致的视频文件不完整。使用MP4视频修复软件修复一下即可。
 
 8.批量取关的博主数量如果过多，可能会被官方弹出验证码。请自行手动解决验证码问题。
-
-
-更多图文教程：
-https://www.cnblogs.com/testusyd/articles/18893942
-https://github.com/testusyd/douyin_downloader
 
 
 
