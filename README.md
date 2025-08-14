@@ -64,7 +64,7 @@ https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
 https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v2.9.0.zip
 
-
+![临时版本使用说明](使用教程/6.受限版本使用说明.png "受限版本使用说明")
 
 
 ------------------------------------------------------------------------------------------------------
