@@ -1,9 +1,16 @@
 # douyin_downloader
 
-抖音福袋扭蛋机 v2.9.0
+抖音福袋扭蛋机 v2.9.1
 
 
-[2025-08-14] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+[2025-08-16] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+
+v2.9.1
+
+
+解决了一个扫不到直播间的bug
+
+解决了养号时会出现应用程序崩溃的bug
 
 
 v2.9.0
@@ -41,6 +48,13 @@ qq群：960205965
 TG：https://t.me/+JpmgXE_1KIZhMzM0
 
 
+v2.9.1 Release版本下载
+
+
+https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
+
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v2.9.1.zip
+
 
 注意：如果遇到打不开软件或解压出现问题的情况，可能需要在使用本软件时临时关闭杀毒软件或Windows Defender。
 
@@ -55,14 +69,7 @@ https://www.cnblogs.com/emanlee/p/17406620.html
 http://www.app-bos.com/iKhph321j8ba
 
 
-v2.9.0 Release版本下载
 
-
-https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
-
-
-
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v2.9.0.zip
 
 ![临时版本使用说明](使用教程/6.受限版本使用说明.png "受限版本使用说明")
 
