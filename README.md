@@ -45,14 +45,11 @@ v2.9.0
 
 qq群：
 
-960205965
-
-726970677
-
-719078401
+1054615016
+1054623998
 
 
-TG：https://t.me/+JpmgXE_1KIZhMzM0
+永不迷路 Telegram：https://t.me/+JpmgXE_1KIZhMzM0
 
 
 v2.9.1 Release版本下载
