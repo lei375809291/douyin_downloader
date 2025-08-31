@@ -1,9 +1,9 @@
 # douyin_downloader
 
-抖音福袋扭蛋机 v3.0.0
+抖音福袋扭蛋机 v3.1.0
 
 
-[2025-08-29] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+[2025-08-31] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
 
 最新公告：
 
@@ -19,6 +19,14 @@ qq群：
 	1054623998
 
 TG：https://t.me/+JpmgXE_1KIZhMzM0
+
+<span style="color:red; font-weight:bold;">v3.1.0</span>
+
+
+解决了固定直播间抢福袋的bug。
+
+优化了福袋池扫描参数，VIP用户扫描的福袋池质量会更好(参与人数更少)，福袋数量更多(参与空间更大)。
+
 
 <span style="color:red; font-weight:bold;">v3.0.0</span>
 
@@ -48,12 +56,12 @@ TG：https://t.me/+JpmgXE_1KIZhMzM0
 ![新版本使用说明](使用教程/0.挂机扫描直播间福袋.png "新版本使用说明")
 
 
-v3.0.0 Release版本下载
+v3.1.0 Release版本下载
 
 
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v3.0.0.zip
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v3.1.0.zip
 
 
 注意：如果遇到打不开软件或解压出现问题的情况，可能需要在使用本软件时临时关闭杀毒软件或Windows Defender。
