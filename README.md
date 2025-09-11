@@ -25,7 +25,11 @@ TG：https://t.me/+JpmgXE_1KIZhMzM0
 
 适配官方算法更新。
 
-增加了代理功能，在软件目录中配置proxy.txt即可。一行一个，格式为ip:port@user#password，无用户密码的代理可以留空，如8.8.8.8:8888@#
+增加了代理功能，VIP可用，支持http/https代理。
+
+在软件目录中配置proxy.txt即可。一行一个，格式为ip:port@user#password，无用户密码的代理可以留空，如8.8.8.8:8888@#
+
+
 
 
 **v4.0.0**
