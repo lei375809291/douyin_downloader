@@ -1,9 +1,9 @@
 # douyin_downloader
 
-<span style="color:red; font-weight:bold;">抖音福袋扭蛋机 v4.1.0</span>
+<span style="color:red; font-weight:bold;">抖音福袋扭蛋机 v4.1.1</span>
 
 
-[2025-09-11] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+[2025-09-14] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
 
 最新公告：
 
@@ -21,15 +21,15 @@ qq群：
 TG：https://t.me/+JpmgXE_1KIZhMzM0
 
 
-**v4.1.0**
+**v4.1.1**
+
+尝试解决部分闪退问题。
 
 适配官方算法更新。
 
 增加了代理功能，VIP可用，支持http/https代理。
 
 在软件目录中配置proxy.txt即可。一行一个，格式为ip:port@user#password，无用户密码的代理可以留空，如8.8.8.8:8888@#
-
-
 
 
 **v4.0.0**
@@ -93,12 +93,12 @@ TG：https://t.me/+JpmgXE_1KIZhMzM0
 
 
 
-v4.1.0 Release版本下载
+v4.1.1 Release版本下载
 
 
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v4.1.0.zip
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v4.1.1.zip
 
 
 注意：如果遇到打不开软件或解压出现问题的情况，可能需要在使用本软件时临时关闭杀毒软件或Windows Defender。
