@@ -1,12 +1,13 @@
-# 抖音福袋扭蛋机 v4.5.0
+# 抖音福袋扭蛋机 v4.7.2
 
 
-[2025-09-29] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+[2025-10-15] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
 
 最新公告：
 
 
 	https://www.cnblogs.com/usyd/articles/19056870
+	
 
 新版本的通知群：
 qq群：
@@ -20,9 +21,13 @@ TG：https://t.me/+JpmgXE_1KIZhMzM0
 
 
 
-# v4.5.0
+# v4.7.2
 
-检测到官方算法有变更，请尽量提前更新到最新版本，以免老版本算法突然失效。
+新增加入粉丝团的功能。遇到需要加粉丝团才能获取的福袋，会先判断是否为该主播的粉丝，再尝试加入粉丝团并参与福袋。
+
+修复了一个闪退的bug，解决了一个因加载直播间页面失败导致频繁切换直播间的bug。
+
+最近工作比较忙，新功能开发比较缓慢，请大家见谅。
 
 目前4.x.x版本的效果基本能达到当时2.2.0的水平，对代码进行了部分重构，绕过了官方的一些检测点。
 
@@ -69,12 +74,12 @@ vip用户享受优化过的福袋池，福袋的参与率都是比较低的，�
 红包的功能落地后，vip价格可能会随之调整，已经充值过vip的用户不会受影响。再次感谢大家的信任。
 
 
-v4.5.0 Release版本下载
+v4.7.2 Release版本下载
 
 
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v4.5.0.zip
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v4.7.2.zip
 
 
 注意：如果遇到打不开软件或解压出现问题的情况，可能需要在使用本软件时临时关闭杀毒软件或Windows Defender。
