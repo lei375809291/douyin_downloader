@@ -17,11 +17,13 @@ qq群：
   		960956338
 
 
-TG：https://t.me/+JpmgXE_1KIZhMzM0
+TG：[https://t.me/+JpmgXE_1KIZhMzM0](https://t.me/+_3rhEtjaQElhMTgx)
 
 
 
 # v4.9.0
+
+之前的telegram群废了，请加新群。
 
 修复“固定”直播间扫描不到福袋的bug。
 
