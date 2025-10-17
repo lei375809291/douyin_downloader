@@ -17,7 +17,7 @@ qq群：
   		960956338
 
 
-TG：[[https://t.me/+JpmgXE_1KIZhMzM0](https://t.me/+_3rhEtjaQElhMTgx)](https://t.me/+_3rhEtjaQElhMTgx)
+TG：https://t.me/+_3rhEtjaQElhMTgx
 
 
 
