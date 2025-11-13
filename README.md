@@ -1,7 +1,7 @@
-# 抖音福袋扭蛋机 v4.9.1
+# 抖音福袋扭蛋机 v4.9.2
 
 
-[2025-11-12] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+[2025-11-13] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
 
 最新公告：
 
@@ -21,13 +21,13 @@ TG：https://t.me/+_3rhEtjaQElhMTgx
 
 
 
-# v4.9.1
+# v4.9.2
 
 之前的telegram群废了，请加新群。
 
-修复“固定”直播间扫描不到福袋的bug。
+修复扫描直播间缓存异常问题，修复因抖音算法变更导致的直播间配置异常
 
-修复因抖音算法变更导致的直播间配置异常。
+修复“固定”直播间扫描不到福袋的bug。vip用户可以最多监听扫描10个固定直播间福袋。免费版限制监听1个。
 
 用户未设置粉丝团福袋的情况下，现在会自动跳过粉丝团福袋。
 
@@ -82,12 +82,12 @@ vip用户享受优化过的福袋池，福袋的参与率都是比较低的，�
 红包的功能落地后，vip价格可能会随之调整，已经充值过vip的用户不会受影响。再次感谢大家的信任。
 
 
-v4.9.1 Release版本下载
+v4.9.2 Release版本下载
 
 
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v4.9.1.zip
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v4.9.2.zip
 
 
 注意：如果遇到打不开软件或解压出现问题的情况，可能需要在使用本软件时临时关闭杀毒软件或Windows Defender。
